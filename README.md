@@ -1,5 +1,5 @@
 # BlenderAids
-BlendAids - various resources like layout maps, etc. for use in Blender (or other image editors where layout grids might be useful)
+Various resources like layout maps, etc. for use in Blender (or other image editors where layout grids might be useful)
 
 # make_grid.py
 
