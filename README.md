@@ -151,4 +151,5 @@ Here are three common output styles:
 
 ## License
 
-
+This project is licensed under the **BSD 2-Clause License**.  
+See the [LICENSE](https://github.com/lynnewu/BlenderAids/blob/main/LICENSE) file for details.
