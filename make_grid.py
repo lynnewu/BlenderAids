@@ -1,4 +1,5 @@
  #!/usr/bin/env python3
+# SPDX-License-Identifier: BSD-2-Clause
 """
 make_grid.py — Generate pixel-perfect ruler/UV grid images for Blender (and print).
 
@@ -343,3 +344,4 @@ def main():
 # Standard "script entry point" guard so imports won't auto-run generation.
 if __name__ == "__main__":
     main()
+
