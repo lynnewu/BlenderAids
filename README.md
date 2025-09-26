@@ -151,4 +151,4 @@ Here are three common output styles:
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+
