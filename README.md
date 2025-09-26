@@ -112,6 +112,7 @@ Generates a 3600×3600 PNG with 10×10 major squares, 12×12 subdivisions each, 
 Here are three common output styles:
 
 https://github.com/lynnewu/BlenderAids/blob/main/make_grid_demo_fixed.png
+![Demo Grids](https://github.com/lynnewu/BlenderAids/raw/main/make_grid_demo_fixed.png)
 
 - Left: Colored PNG (default)
 - Middle: B/W print-friendly PDF
