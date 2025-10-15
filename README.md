@@ -8,6 +8,18 @@ It supports PNG (raster), SVG, and PDF (vector) output with customizable colors,
 
 ---
 
+## Demo
+
+Here are three common output styles:
+
+![Demo Grids](https://github.com/lynnewu/BlenderAids/raw/main/make_grid_demo_fixed.png)
+
+- Left: Colored PNG (default)
+- Middle: B/W print-friendly PDF
+- Right: Semi-transparent overlay (50% opacity)
+
+---
+
 ## Quick Start
 
 1. Install dependencies:
@@ -98,24 +110,7 @@ Generates a 3600×3600 PNG with 10×10 major squares, 12×12 subdivisions each, 
 
   Produces files like: my_custom_grid-000.png, my_custom_grid-000.svg
 
----
 
-## Examples
-
-- grid_7200_major10_minor12_color_upperleft_scale0.2_opacity1-000.png
-- grid_3600_major10_minor12_bw_middlecenter_scale0.18_opacity0.5-000.pdf
-
----
-
-## Demo
-
-Here are three common output styles:
-
-![Demo Grids](https://github.com/lynnewu/BlenderAids/raw/main/make_grid_demo_fixed.png)
-
-- Left: Colored PNG (default)
-- Middle: B/W print-friendly PDF
-- Right: Semi-transparent overlay (50% opacity)
 
 ---
 
